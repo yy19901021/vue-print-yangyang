@@ -1,6 +1,5 @@
 # vue-print-nb
 
-This is a directive wrapper for printed, Simple, fast, convenient, light.
 这个项目是从vue-print-nb复制下来的一个项目，只是修改了里面关于checkebox和radio的checked属性添加
 
 ## Install
